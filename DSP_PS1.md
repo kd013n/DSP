@@ -455,12 +455,12 @@ f_N = 9 \ kHz \\ \\
 >\Delta = 12.94 \ mV \\\\\\
 >x_q[n] = \left\lfloor \frac{x_{max} - x_{min}}{\Delta} \right\rfloor \times \Delta \\\\
 >
->x_q[n] = \left\lfloor \frac{2V - 0V}{12.94 \ mV} \right\rfloor \times 12.93 \ mV\\\\
->x_q[n] = 155 \times 12.93 \ mV \\\\
->x_q[n] = 2.00415 V \\\\\\
+>x_q[n] = \left\lfloor \frac{2V - 0V}{12.94 \ mV} \right\rfloor \times 12.94 \ mV\\\\
+>x_q[n] = 155 \times 12.94 \ mV \\\\
+>x_q[n] = 2.0057 V \\\\\\
 >e_q = x[n] - x_q[n] \\
->e_q =  2V - 2.00415 V \\
->\boxed{e_q = -4.15 \ mV}
+>e_q =  2V - 2.0057 V \\
+>\boxed{e_q = -5.7 \ mV}
 > \end{gathered}$$
 
 >[!done] 7.5
