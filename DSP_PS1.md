@@ -90,8 +90,8 @@ SNR_{db} = 1.76 + 6.02(8) \\
 
 > [!done] 2.1
 > $$\begin{gathered}
-DR_{dB} = 20log(2^b) \\
-DR_{dB} = 20log(2^{12}) \\
+DR_{dB} = 20log(2^b - 1) \\
+DR_{dB} = 20log(2^{12} - 1) \\
 \boxed{DR_{dB} = 72.25 \ dB} 
 \end{gathered}$$
 

@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "6965917305c885b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fe58a5ba1afa0b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a539a4a2f91f41c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSP_PS1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DSP_PS1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d52d7a2320bdabf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cbbc5c181a5843b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4efd2ab31b1ab61e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "92059d14eabbc771",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0db2f336d45fed3a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c9ecfde058606e43",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9d1ea01bcdbdc9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "789bb3983d45467d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DSP_PS1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DSP_PS1"
+            }
+          },
+          {
+            "id": "a308ef0d05435b99",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DSP_PS1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DSP_PS1"
+            }
+          },
+          {
+            "id": "4eb9de529cf6333e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "65bb711d5696645e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DSP_PS1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DSP_PS1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8a539a4a2f91f41c",
+  "lastOpenFiles": []
+}
